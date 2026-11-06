@@ -1,16 +1,20 @@
-## Hi there 👋
+# Imran Shah
 
-<!--
-**siasb/siasb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I design privacy-safe dashboards and operational analytics tools.
 
-Here are some ideas to get you started:
+## Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [Incident Health Dashboard](https://github.com/siasb/Incident-Health-Dashboard)
+
+An interactive incident response dashboard prototype built with synthetic data. It demonstrates severity-based health metrics, incident lifecycle analysis, retrospective tracking, action-item aging, ownership visibility, and operational drill-down workflows.
+
+- [View the repository](https://github.com/siasb/Incident-Health-Dashboard)
+- [Open the live demo](https://siasb.github.io/Incident-Health-Dashboard/)
+
+## Current Focus
+
+- Operational dashboards
+- Incident response analytics
+- Data visualization
+- SRE workflows
+- Privacy-safe product prototypes
